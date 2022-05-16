@@ -2,9 +2,9 @@
 
 ### Requirements:
 1. RaspberryPi with Camera
-2. FFmpeg: On Linux enter ```sudo apt install ffmpeg```
+2. FFmpeg: On Linux enter ```sudo apt install ffmpeg``` See more here: https://ffmpeg.org/
 3. Gogle drive and authentication, see more here https://d35mpxyw7m7k7g.cloudfront.net/bigdata_1/Get+Authentication+for+Google+Service+API+.pdf
-4. Python 3.9 with pipenv installed
+4. Python 3.9 with pipenv installed. See more here https://pipenv.pypa.io/en/latest/#
 
 ### Instructions to shoot pictures:
 1. Download this repository and go to folder get_pictures
